@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Hospital>
+  <Patient>
+    <idNumber>222</idNumber>
+    <name>Ron</name>
+    <age>25</age>
+    <gender>Male</gender>
+  </Patient>
+  <Patient>
+    <idNumber>111</idNumber>
+    <name>Harry</name>
+    <age>23</age>
+    <gender>Male</gender>
+  </Patient>
+</Hospital>
